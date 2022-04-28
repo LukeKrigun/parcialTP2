@@ -1,0 +1,14 @@
+{
+  "type": "module",
+  "name": "tp2---parcial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./main/index.js",
+    "test": "node ./test/test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
